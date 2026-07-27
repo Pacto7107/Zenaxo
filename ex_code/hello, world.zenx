@@ -1,0 +1,7 @@
+#incl <std>;
+
+set(std);
+
+zenx main(){
+  io::out("Hello, world\n");
+}
