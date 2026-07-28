@@ -1,0 +1,9 @@
+#incl <std>;
+
+set("std");
+
+zenx main(){
+  int a, b;
+  io::in(a, b);
+  io::out(a + b, '\n');
+}
