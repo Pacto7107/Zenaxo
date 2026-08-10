@@ -2,7 +2,7 @@
 set(std);
 
 zenx main(){
-    mkvs(2 int a int b);
+    mkvd(2 int a b);
     io::ins(2 a b);
     io::out(+(a b));
 }
