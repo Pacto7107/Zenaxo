@@ -1,9 +1,8 @@
 #incl <std>;
-
-set("std");
+set(std);
 
 zenx main(){
-  int a, b;
-  io::in(a, b);
-  io::out(a + b, '\n');
+    mkvs(2 int a int b);
+    io::ins(2 a b);
+    io::out(+(a b));
 }

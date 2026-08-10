@@ -1,0 +1,12 @@
+#incl <std>;
+set(std);
+
+zenx main(){
+    mkv(int t);
+    io::in(t);
+    for(i 0 t 0){
+        mkvs(3 int a int b int c);
+        io::ins(3 a b c);
+        io::outs(cal(3 a + b - c) '\n');
+    }
+}
