@@ -1,2 +1,2 @@
 # Zenaxo
-Zenaxo;  subarashi PL:
+Zenaxo;  subarashi PL
